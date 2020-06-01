@@ -1,0 +1,8 @@
+.left{
+  border-radius: 0 0 0 10px;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.right{
+  border-radius: 0 0 10px 0;
+  box-shadow: 3px 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
